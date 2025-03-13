@@ -1,4 +1,4 @@
-# camera-project
+# Camera-project
 [Click here to view the project](https://yourusername.github.io/repository-name/)
 
 ## Overview
