@@ -1,5 +1,5 @@
 # Camera-project
-[Click here to view the project](https://yourusername.github.io/repository-name/)
+[Click here to view the project]( https://medhabar.github.io/camera-project/)
 
 ## Overview
 The Sidebar Menu Project is a simple yet stylish CSS-based sidebar navigation menu. It features a responsive and interactive design, allowing users to toggle the sidebar menu seamlessly. The menu includes navigation links and social media icons, enhancing user accessibility and experience.
